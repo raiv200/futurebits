@@ -1,0 +1,15 @@
+import index1 from "./index1.svg"
+import index2 from "./index2.svg"
+import index3 from "./index3.svg"
+import index4 from "./index4.svg"
+import index5 from "./index5.svg"
+import index6 from "./index6.svg"
+import index7 from "./index7.svg"
+import index8 from "./index8.svg"
+import index9 from "./index9.svg"
+import index10 from "./index10.svg"
+import index11 from "./index11.svg"
+import index12 from "./index12.svg"
+import index13 from "./index13.svg"
+
+export {index1, index2, index3, index4, index5, index6, index7, index8, index9, index10, index11, index12, index13};
